@@ -50,7 +50,7 @@
 
 # ライセンス
 ## Voxelorer関連
-- tanakaeduの著作物は、[MITライセンス](./LICENSE)で提供します
+- YuTanakaの著作物は、[MITライセンス](./LICENSE)で提供します
 
 ## SDユニティちゃん
 <img src="http://unity-chan.com/images/imageLicenseLogo.png" alt="ユニティちゃんライセンス"><p>本リポジトリーはSDユニティちゃん(Ver1.01)を含んでいます。SDユニティちゃんは、<a href="http://unity-chan.com/contents/license_jp/" target="_blank">ユニティちゃんライセンス条項</a>の元に提供されています</p>
