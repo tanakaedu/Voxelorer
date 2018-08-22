@@ -12,7 +12,7 @@ namespace AM1.TPCMove
         [TooltipAttribute("走る速度を秒速で指定します。"), SerializeField]
         private float runSpeed = 2f;
         [TooltipAttribute("ジャンプ力をm/秒でしていします。"), SerializeField]
-        private float jumpPower = 4f;
+        private float jumpPower = 3f;
         [TooltipAttribute("回転する速度を度/秒で指定します。"), SerializeField]
         private float angularVelocity = 1080f;
 
